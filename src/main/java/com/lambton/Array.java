@@ -36,7 +36,7 @@ public class Array {
         y4[1][0] = 5;
         y4[1][1] = 6;
         y4[1][2] = 7;
-        System.out.println(y4[0][1]);
+        System.out.println(y4[1][0]);
         System.out.println("Using Compact for(:)");
 
 
